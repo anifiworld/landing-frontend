@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Toonish';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Toonish'), url('../fonts/TOONISH.woff') format('woff');
+}

@@ -1,0 +1,10 @@
+@font-face {
+  /* font-family: 'Toonish';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Toonish'), url('../fonts/TOONISH.woff') format('woff'); */
+  font-family: 'LuckiestGuy';
+  font-style: normal;
+  font-weight: 400;
+  src: local('LuckiestGuy'), url('../fonts/LuckiestGuy.ttf') format('truetype');
+}
